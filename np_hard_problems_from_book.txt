@@ -1,0 +1,5 @@
+vertex cover
+hamiltonian path
+hamiltonian cycle
+longest path
+subset sum
